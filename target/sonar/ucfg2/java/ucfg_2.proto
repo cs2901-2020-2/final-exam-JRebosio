@@ -1,0 +1,2006 @@
+
+main.java.Blockudoku#play(II)VY
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java) )("57"35"13"49"29"7"41"21*ð
+46Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB B(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB B(
+%44java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB B(
+%45java.lang.Integer[]"
+__arrayGet*
+
+%44java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB B(
+%46java.lang.Integer"
+__arrayGet*
+
+%45java.lang.Integer[]*
+""*
+0
+45*•
+24Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javan n(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javan n(
+%127java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javan n(
+%128java.lang.Integer[]"
+__arrayGet*
+
+%127java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javan n(#
+%129"
+__arraySet*
+
+%128java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javan n(
+%130"
+__arraySet*
+
+%127java.lang.Integer[][]*
+""*
+
+%128java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javao o(
+%131java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javao o(
+%132java.lang.Integer[]"
+__arrayGet*
+
+%131java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javao o('
+%133"
+__arraySet*
+
+%132java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javao o(
+%134"
+__arraySet*
+
+%131java.lang.Integer[][]*
+""*
+
+%132java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javap p(
+%135java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javap p(
+%136java.lang.Integer[]"
+__arrayGet*
+
+%135java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javap p('
+%137"
+__arraySet*
+
+%136java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javap p(
+%138"
+__arraySet*
+
+%135java.lang.Integer[][]*
+""*
+
+%136java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaq q(
+%139java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaq q(
+%140java.lang.Integer[]"
+__arrayGet*
+
+%139java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaq q((
+%141"
+__arraySet*
+
+%140java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaq q(
+%142"
+__arraySet*
+
+%139java.lang.Integer[][]*
+""*
+
+%140java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javar r(
+%143java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javar r(
+%144java.lang.Integer[]"
+__arrayGet*
+
+%143java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javar r((
+%145"
+__arraySet*
+
+%144java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javar r(
+%146"
+__arraySet*
+
+%143java.lang.Integer[][]*
+""*
+
+%144java.lang.Integer[]*
+0*ð
+47Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA< A(A§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA< A(A
+%41java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA< A(D
+%42java.lang.Integer[]"
+__arrayGet*
+
+%41java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA< A(I
+%43java.lang.Integer"
+__arrayGet*
+
+%42java.lang.Integer[]*
+""*
+46
+0*õ
+25Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal& l(+¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal& l(+
+%124java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal& l(.
+%125java.lang.Integer[]"
+__arrayGet*
+
+%124java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal& l(3
+%126java.lang.Integer"
+__arrayGet*
+
+%125java.lang.Integer[]*
+""*
+24
+0*ð
+48Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA& A(+§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA& A(+
+%38java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA& A(.
+%39java.lang.Integer[]"
+__arrayGet*
+
+%38java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA& A(3
+%40java.lang.Integer"
+__arrayGet*
+
+%39java.lang.Integer[]*
+""*
+47
+0*õ
+26Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal l(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal l(
+%121java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal l(
+%122java.lang.Integer[]"
+__arrayGet*
+
+%121java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javal l(
+%123java.lang.Integer"
+__arrayGet*
+
+%122java.lang.Integer[]*
+""*
+25
+0*ð
+49Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA A(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA A(
+%35java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA A(
+%36java.lang.Integer[]"
+__arrayGet*
+
+%35java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaA A(
+%37java.lang.Integer"
+__arrayGet*
+
+%36java.lang.Integer[]*
+""*
+48
+0*õ
+27Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak= k(B¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak= k(B
+%118java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak= k(G
+%119java.lang.Integer[]"
+__arrayGet*
+
+%118java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak= k(J
+%120java.lang.Integer"
+__arrayGet*
+
+%119java.lang.Integer[]*
+""*
+26
+0*õ
+28Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak' k(,¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak' k(,
+%115java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak' k(1
+%116java.lang.Integer[]"
+__arrayGet*
+
+%115java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak' k(4
+%117java.lang.Integer"
+__arrayGet*
+
+%116java.lang.Integer[]*
+""*
+27
+0*õ
+29Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak k(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak k(
+%112java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak k(
+%113java.lang.Integer[]"
+__arrayGet*
+
+%112java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javak k(
+%114java.lang.Integer"
+__arrayGet*
+
+%113java.lang.Integer[]*
+""*
+28
+0*í
+52Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java0 0(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java0 0(
+%15java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java0 0(
+%16java.lang.Integer[]"
+__arrayGet*
+
+%15java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java0 0(
+%17"
+__arraySet*
+
+%16java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java0 0(
+%18"
+__arraySet*
+
+%15java.lang.Integer[][]*
+""*
+
+%16java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java1 1(
+%19java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java1 1(
+%20java.lang.Integer[]"
+__arrayGet*
+
+%19java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java1 1(!
+%21"
+__arraySet*
+
+%20java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java1 1(
+%22"
+__arraySet*
+
+%19java.lang.Integer[][]*
+""*
+
+%20java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java2 2(
+%23java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java2 2(
+%24java.lang.Integer[]"
+__arrayGet*
+
+%23java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java2 2(!
+%25"
+__arraySet*
+
+%24java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java2 2(
+%26"
+__arraySet*
+
+%23java.lang.Integer[][]*
+""*
+
+%24java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java3 3(
+%27java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java3 3(
+%28java.lang.Integer[]"
+__arrayGet*
+
+%27java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java3 3(#
+%29"
+__arraySet*
+
+%28java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java3 3(
+%30"
+__arraySet*
+
+%27java.lang.Integer[][]*
+""*
+
+%28java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java4 4(
+%31java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java4 4(
+%32java.lang.Integer[]"
+__arrayGet*
+
+%31java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java4 4(#
+%33"
+__arraySet*
+
+%32java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java4 4(
+%34"
+__arraySet*
+
+%31java.lang.Integer[][]*
+""*
+
+%32java.lang.Integer[]*
+0*ð
+53Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java.( .(-§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java.( .(-
+%12java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java.( .(2
+%13java.lang.Integer[]"
+__arrayGet*
+
+%12java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java.( .(7
+%14java.lang.Integer"
+__arrayGet*
+
+%13java.lang.Integer[]*
+""*
+52
+0*î
+54Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java. .(¦
+£
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java. .(
+%9java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board­
+ª
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java. .(
+%10java.lang.Integer[]"
+__arrayGet*
+
+%9java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java. .(
+%11java.lang.Integer"
+__arrayGet*
+
+%10java.lang.Integer[]*
+""*
+53
+0*ü
+10[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%191java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%192java.lang.Integer[]"
+__arrayGet*
+
+%191java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%193java.lang.Integer"
+__arrayGet*
+
+%192java.lang.Integer[]*
+""*
+9
+0*›
+32Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java` `(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java` `(
+%100java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java` `(
+%101java.lang.Integer[]"
+__arrayGet*
+
+%100java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java` `(
+%102"
+__arraySet*
+
+%101java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java` `(
+%103"
+__arraySet*
+
+%100java.lang.Integer[][]*
+""*
+
+%101java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaa a(
+%104java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaa a(
+%105java.lang.Integer[]"
+__arrayGet*
+
+%104java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaa a(!
+%106"
+__arraySet*
+
+%105java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaa a(
+%107"
+__arraySet*
+
+%104java.lang.Integer[][]*
+""*
+
+%105java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javab b(
+%108java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javab b(
+%109java.lang.Integer[]"
+__arrayGet*
+
+%108java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javab b(!
+%110"
+__arraySet*
+
+%109java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javab b(
+%111"
+__arraySet*
+
+%108java.lang.Integer[][]*
+""*
+
+%109java.lang.Integer[]*
+0*ë
+55Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-< -(A¦
+£
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-< -(A
+%6java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-< -(F
+%7java.lang.Integer[]"
+__arrayGet*
+
+%6java.lang.Integer[][]*
+""¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-< -(I
+%8java.lang.Integer"
+__arrayGet*
+
+%7java.lang.Integer[]*
+""*
+54
+0*ý
+11[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ= Œ(Bª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ= Œ(B
+%188java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ= Œ(G
+%189java.lang.Integer[]"
+__arrayGet*
+
+%188java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ= Œ(J
+%190java.lang.Integer"
+__arrayGet*
+
+%189java.lang.Integer[]*
+""*
+10
+0*ð
+33Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^= ^(B§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^= ^(B
+%97java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^= ^(G
+%98java.lang.Integer[]"
+__arrayGet*
+
+%97java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^= ^(J
+%99java.lang.Integer"
+__arrayGet*
+
+%98java.lang.Integer[]*
+""*
+32
+0*ð
+34Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^' ^(,§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^' ^(,
+%94java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^' ^(1
+%95java.lang.Integer[]"
+__arrayGet*
+
+%94java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^' ^(4
+%96java.lang.Integer"
+__arrayGet*
+
+%95java.lang.Integer[]*
+""*
+33
+0*ë
+56Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-& -(+¦
+£
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-& -(+
+%3java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-& -(0
+%4java.lang.Integer[]"
+__arrayGet*
+
+%3java.lang.Integer[][]*
+""¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java-& -(3
+%5java.lang.Integer"
+__arrayGet*
+
+%4java.lang.Integer[]*
+""*
+55
+0*ý
+12[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ' Œ(,ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ' Œ(,
+%185java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ' Œ(1
+%186java.lang.Integer[]"
+__arrayGet*
+
+%185java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ' Œ(4
+%187java.lang.Integer"
+__arrayGet*
+
+%186java.lang.Integer[]*
+""*
+11
+0*ð
+35Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^ ^(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^ ^(
+%91java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^ ^(
+%92java.lang.Integer[]"
+__arrayGet*
+
+%91java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java^ ^(
+%93java.lang.Integer"
+__arrayGet*
+
+%92java.lang.Integer[]*
+""*
+0
+34*ë
+57Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java- -(¦
+£
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java- -(
+%0java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java- -(
+%1java.lang.Integer[]"
+__arrayGet*
+
+%0java.lang.Integer[][]*
+""¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java- -(
+%2java.lang.Integer"
+__arrayGet*
+
+%1java.lang.Integer[]*
+""*
+0
+56*ý
+13[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ Œ(ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ Œ(
+%182java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ Œ(
+%183java.lang.Integer[]"
+__arrayGet*
+
+%182java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŒ Œ(
+%184java.lang.Integer"
+__arrayGet*
+
+%183java.lang.Integer[]*
+""*
+0
+12*ƒ
+38Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaT T(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaT T(
+%79java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaT T(
+%80java.lang.Integer[]"
+__arrayGet*
+
+%79java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaT T(#
+%81"
+__arraySet*
+
+%80java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaT T(
+%82"
+__arraySet*
+
+%79java.lang.Integer[][]*
+""*
+
+%80java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaU U(
+%83java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaU U(
+%84java.lang.Integer[]"
+__arrayGet*
+
+%83java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaU U(%
+%85"
+__arraySet*
+
+%84java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaU U(
+%86"
+__arraySet*
+
+%83java.lang.Integer[][]*
+""*
+
+%84java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaV V(
+%87java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaV V(
+%88java.lang.Integer[]"
+__arrayGet*
+
+%87java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaV V(%
+%89"
+__arraySet*
+
+%88java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaV V(
+%90"
+__arraySet*
+
+%87java.lang.Integer[][]*
+""*
+
+%88java.lang.Integer[]*
+0*­
+16Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java~ ~(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java~ ~(
+%162java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java~ ~(
+%163java.lang.Integer[]"
+__arrayGet*
+
+%162java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java~ ~(#
+%164"
+__arraySet*
+
+%163java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java~ ~(
+%165"
+__arraySet*
+
+%162java.lang.Integer[][]*
+""*
+
+%163java.lang.Integer[]¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%166java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%167java.lang.Integer[]"
+__arrayGet*
+
+%166java.lang.Integer[][]*
+""Ÿ
+œ
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (+
+%168"
+__arraySet*
+
+%167java.lang.Integer[]*
+""*2º
+·
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%169"
+__arraySet*
+
+%166java.lang.Integer[][]*
+""*
+
+%167java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java€ €(
+%170java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java€ €("
+%171java.lang.Integer[]"
+__arrayGet*
+
+%170java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java€ €(/
+%172"
+__arraySet*
+
+%171java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java€ €("
+%173"
+__arraySet*
+
+%170java.lang.Integer[][]*
+""*
+
+%171java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%174java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java ("
+%175java.lang.Integer[]"
+__arrayGet*
+
+%174java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (.
+%176"
+__arraySet*
+
+%175java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java ("
+%177"
+__arraySet*
+
+%174java.lang.Integer[][]*
+""*
+
+%175java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‚ ‚(
+%178java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‚ ‚(
+%179java.lang.Integer[]"
+__arrayGet*
+
+%178java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‚ ‚(,
+%180"
+__arraySet*
+
+%179java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‚ ‚(
+%181"
+__arraySet*
+
+%178java.lang.Integer[][]*
+""*
+
+%179java.lang.Integer[]*
+0*ð
+39Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR= R(B§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR= R(B
+%76java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR= R(E
+%77java.lang.Integer[]"
+__arrayGet*
+
+%76java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR= R(J
+%78java.lang.Integer"
+__arrayGet*
+
+%77java.lang.Integer[]*
+""*
+38
+0*õ
+17Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java| |(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java| |(
+%159java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java| |(
+%160java.lang.Integer[]"
+__arrayGet*
+
+%159java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java| |(
+%161java.lang.Integer"
+__arrayGet*
+
+%160java.lang.Integer[]*
+""*
+16
+0*õ
+18Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{T {(Y¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{T {(Y
+%156java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{T {(^
+%157java.lang.Integer[]"
+__arrayGet*
+
+%156java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{T {(c
+%158java.lang.Integer"
+__arrayGet*
+
+%157java.lang.Integer[]*
+""*
+17
+0*õ
+19Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{< {(A¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{< {(A
+%153java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{< {(F
+%154java.lang.Integer[]"
+__arrayGet*
+
+%153java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{< {(K
+%155java.lang.Integer"
+__arrayGet*
+
+%154java.lang.Integer[]*
+""*
+18
+0*y
+0 "r
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaª ª(
+implicit return*ù
+3[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaž ž(ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaž ž(
+%222java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaž ž(
+%223java.lang.Integer[]"
+__arrayGet*
+
+%222java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaž ž(#
+%224"
+__arraySet*
+
+%223java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaž ž(
+%225"
+__arraySet*
+
+%222java.lang.Integer[][]*
+""*
+
+%223java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŸ Ÿ(
+%226java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŸ Ÿ(
+%227java.lang.Integer[]"
+__arrayGet*
+
+%226java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŸ Ÿ(%
+%228"
+__arraySet*
+
+%227java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaŸ Ÿ(
+%229"
+__arraySet*
+
+%226java.lang.Integer[][]*
+""*
+
+%227java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java   (
+%230java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java   ( 
+%231java.lang.Integer[]"
+__arrayGet*
+
+%230java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java   ()
+%232"
+__arraySet*
+
+%231java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java   ( 
+%233"
+__arraySet*
+
+%230java.lang.Integer[][]*
+""*
+
+%231java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java¡ ¡(
+%234java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java¡ ¡( 
+%235java.lang.Integer[]"
+__arrayGet*
+
+%234java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java¡ ¡()
+%236"
+__arraySet*
+
+%235java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java¡ ¡( 
+%237"
+__arraySet*
+
+%234java.lang.Integer[][]*
+""*
+
+%235java.lang.Integer[]*
+0*û
+4[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java› ›(ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java› ›(
+%219java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java› ›(
+%220java.lang.Integer[]"
+__arrayGet*
+
+%219java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java› ›(
+%221java.lang.Integer"
+__arrayGet*
+
+%220java.lang.Integer[]*
+""*
+3
+0*û
+5[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš? š(Dª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš? š(D
+%216java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš? š(I
+%217java.lang.Integer[]"
+__arrayGet*
+
+%216java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš? š(N
+%218java.lang.Integer"
+__arrayGet*
+
+%217java.lang.Integer[]*
+""*
+4
+0*û
+6[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš) š(.ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš) š(.
+%213java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš) š(1
+%214java.lang.Integer[]"
+__arrayGet*
+
+%213java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš) š(6
+%215java.lang.Integer"
+__arrayGet*
+
+%214java.lang.Integer[]*
+""*
+5
+0*û
+7[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš š(ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš š(
+%210java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš š(
+%211java.lang.Integer[]"
+__arrayGet*
+
+%210java.lang.Integer[][]*
+""®
+«
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaš š(
+%212java.lang.Integer"
+__arrayGet*
+
+%211java.lang.Integer[]*
+""*
+6
+0*ù
+9[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%194java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%195java.lang.Integer[]"
+__arrayGet*
+
+%194java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (#
+%196"
+__arraySet*
+
+%195java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java (
+%197"
+__arraySet*
+
+%194java.lang.Integer[][]*
+""*
+
+%195java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‘ ‘(
+%198java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‘ ‘( 
+%199java.lang.Integer[]"
+__arrayGet*
+
+%198java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‘ ‘('
+%200"
+__arraySet*
+
+%199java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java‘ ‘( 
+%201"
+__arraySet*
+
+%198java.lang.Integer[][]*
+""*
+
+%199java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java’ ’(
+%202java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java’ ’( 
+%203java.lang.Integer[]"
+__arrayGet*
+
+%202java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java’ ’('
+%204"
+__arraySet*
+
+%203java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java’ ’( 
+%205"
+__arraySet*
+
+%202java.lang.Integer[][]*
+""*
+
+%203java.lang.Integer[]ª
+§
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java“ “(
+%206java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board²
+¯
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java“ “( 
+%207java.lang.Integer[]"
+__arrayGet*
+
+%206java.lang.Integer[][]*
+""¡
+ž
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java“ “()
+%208"
+__arraySet*
+
+%207java.lang.Integer[]*
+""*2¼
+¹
+[
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java“ “( 
+%209"
+__arraySet*
+
+%206java.lang.Integer[][]*
+""*
+
+%207java.lang.Integer[]*
+0*ð
+40Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR' R(,§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR' R(,
+%73java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR' R(/
+%74java.lang.Integer[]"
+__arrayGet*
+
+%73java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR' R(4
+%75java.lang.Integer"
+__arrayGet*
+
+%74java.lang.Integer[]*
+""*
+39
+0*ð
+41Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR R(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR R(
+%70java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR R(
+%71java.lang.Integer[]"
+__arrayGet*
+
+%70java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaR R(
+%72java.lang.Integer"
+__arrayGet*
+
+%71java.lang.Integer[]*
+""*
+40
+0*õ
+20Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{% {(*¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{% {(*
+%150java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{% {(-
+%151java.lang.Integer[]"
+__arrayGet*
+
+%150java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{% {(2
+%152java.lang.Integer"
+__arrayGet*
+
+%151java.lang.Integer[]*
+""*
+19
+0*õ
+21Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{ {(¨
+¥
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{ {(
+%147java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board°
+­
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{ {(
+%148java.lang.Integer[]"
+__arrayGet*
+
+%147java.lang.Integer[][]*
+""¬
+©
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.java{ {(
+%149java.lang.Integer"
+__arrayGet*
+
+%148java.lang.Integer[]*
+""*
+20
+0*í
+44Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaD D(§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaD D(
+%50java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaD D(
+%51java.lang.Integer[]"
+__arrayGet*
+
+%50java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaD D(#
+%52"
+__arraySet*
+
+%51java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaD D(
+%53"
+__arraySet*
+
+%50java.lang.Integer[][]*
+""*
+
+%51java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaE E(
+%54java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaE E(
+%55java.lang.Integer[]"
+__arrayGet*
+
+%54java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaE E(%
+%56"
+__arraySet*
+
+%55java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaE E(
+%57"
+__arraySet*
+
+%54java.lang.Integer[][]*
+""*
+
+%55java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaF F(
+%58java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaF F(
+%59java.lang.Integer[]"
+__arrayGet*
+
+%58java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaF F(%
+%60"
+__arraySet*
+
+%59java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaF F(
+%61"
+__arraySet*
+
+%58java.lang.Integer[][]*
+""*
+
+%59java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaG G(
+%62java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaG G(
+%63java.lang.Integer[]"
+__arrayGet*
+
+%62java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaG G(%
+%64"
+__arraySet*
+
+%63java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaG G(
+%65"
+__arraySet*
+
+%62java.lang.Integer[][]*
+""*
+
+%63java.lang.Integer[]§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaH H(
+%66java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaH H(
+%67java.lang.Integer[]"
+__arrayGet*
+
+%66java.lang.Integer[][]*
+""
+š
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaH H(%
+%68"
+__arraySet*
+
+%67java.lang.Integer[]*
+""*2·
+´
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaH H(
+%69"
+__arraySet*
+
+%66java.lang.Integer[][]*
+""*
+
+%67java.lang.Integer[]*
+0*ð
+45Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB& B(+§
+¤
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB& B(+
+%47java.lang.Integer[][]"__id*#*!
+main.java.Blockudoku"
+board®
+«
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB& B(0
+%48java.lang.Integer[]"
+__arrayGet*
+
+%47java.lang.Integer[][]*
+""ª
+§
+Y
+O/home/jorgerebosio/Documentos/final-exam-JRebosio/src/main/java/Blockudoku.javaB& B(3
+%49java.lang.Integer"
+__arrayGet*
+
+%48java.lang.Integer[]*
+""*
+44
+0:
+"":
+""B
+main.java.Blockudoku

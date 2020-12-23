@@ -28,10 +28,9 @@ public class BlockudokuTest {
 
     private ArrayList<ArrayList<Integer>> readInputPositions(int testNumber){
         List<String> lines = readFile(testNumber, "input");
-        int n = Integer.parseInt(lines.get(0));
         ArrayList<ArrayList<Integer>> out = new ArrayList<ArrayList<Integer>>();
         int count = 0;
-        for (int i = n * n + 1; i < lines.size(); i += 2) {
+        for (int i = 0; i < lines.size(); i += 2) {
             out.add(new ArrayList<Integer>());
             out.get(count).add(0, Integer.parseInt(lines.get(i)));
             out.get(count).add(1, Integer.parseInt(lines.get(i + 1)));
