@@ -14,6 +14,11 @@ public class BlockudokuTest {
         genericMatrix(0);
     }
 
+
+     public void testCase1() throws IOException {
+        genericMatrix(1);
+    }
+
    
 
     private void genericMatrix(int n) throws IOException {
